@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mcemod",
+  "name": "More Cave Exploration",
+  "description": "Adds more things to buildcraft(not yet implemented) and more cave exploration!",
+  "version": "",
+  "mcversion": "",
+  "url": "",
+  "updateUrl": "",
+  "authorslist": ["Brandomine"],
+  "credits": "Brandomine for making More Cave Exploration and michal121345 for some textures",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
